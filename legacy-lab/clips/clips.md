@@ -38,3 +38,16 @@ Higgsfield site with Unlimited on, 0 credits.
 | ll28 | Mum in her glasses reads a letter, lowers it and smiles | 4.0 s | 1280p | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/clips/ll28-mum-reads-letter-smiles.mp4 |
 | ll29 | The boy runs in through the doorway into grandma's hug | 4.0 s | 1280p | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/clips/ll29-boy-runs-into-grandmas-hug.mp4 |
 | ll30 | A small hand sets a child's sandals on the shoe rack beside the adults' shoes | 4.0 s | 1280p | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/clips/ll30-child-sandals-on-rack.mp4 |
+
+## Stills, style A (RedDotFIRE look), 22 Nov 2026
+
+Seedream 5.0 Pro on the Higgsfield site, Unlimited on, 0 credits. Refs: the R00 sheet plus moss-test/12-desk-night.png
+for the look. Every 4:5 still keeps its top third as empty cream for the serif line. No writing anywhere (checked).
+
+| id | what's in it | size | url |
+|---|---|---|---|
+| R00-ling-kopi-sheet | Character sheet: Ling (front, side, back, 3/4 back) and Kopi the calico (sit, side, asleep, walking). 2720x1536 | 2720x1536 | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/R00-ling-kopi-sheet.jpg |
+| S01-taxi-father | Ah Hock, the taxi uncle, leaning on his plain cream car under a Bukit Merah block at golden hour, side/back view (for SH-3 / FC-1) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/S01-taxi-father.jpg |
+| S02-cpf-counter | Ling from behind in a government counter hall, cream folder, taxi charm on her bag (SH-5 / FC-6) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/S02-cpf-counter.jpg |
+| S03-hospital | Ling from behind beside Mum's hospital bed, afternoon blinds light (SH-4) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/S03-hospital.jpg |
+| S04-sunday-dinner | Sunday dinner at Mum's: steamed fish and soup, Ling and Mum from behind, one empty chair, Kopi on a chair (SH-8) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/S04-sunday-dinner.jpg |
