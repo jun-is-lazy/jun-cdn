@@ -71,6 +71,14 @@ for the look. Every 4:5 still keeps its top third as empty cream for the serif l
 | SH6-papers-overhead | Overhead: blank papers, envelope, pen, glasses, Kopi's paw on the corner. Note: two pairs of glasses (SH-6) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/SH6-papers-overhead.jpg |
 | SH7-desk-night | Ling from the side typing at night, Kopi sitting by the laptop, screen blank (SH-7) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/SH7-desk-night.jpg |
 
+## Reels ready
+
+| id | what | length | url |
+|---|---|---|---|
+| RB-03 | "Papa at the taxi stand" (Then series): Papa pats his cab at sunset, Kopi sniffs his old keys, Sunday table with the empty place, hold on "Comment LEGACY for my folder list." Ling's VO word for word from the brief, captions timed to her words, safezone PASS, -16.6 LUFS, no music (the Instagram song goes on at posting), metadata stripped. 1080x1920 | 16.5 s | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/reels/papa-taxi-stand/rb03-papa-taxi-stand.mp4 |
+
+Ling's voice: Higgsfield seed_audio, prompt "A Singaporean Chinese woman in her mid-thirties, casual everyday Singapore English, natural and relaxed, warm, said in one easy breath:", speech_rate 18. RB-03's three lines cost 4.3 credits (38.14 to 33.84).
+
 ## Reels in progress
 
 ### "Papa at the taxi stand" (Then series), shots only, waiting on the timed VO lines in requests.md
