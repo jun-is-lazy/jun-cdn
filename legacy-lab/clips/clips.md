@@ -70,3 +70,15 @@ for the look. Every 4:5 still keeps its top third as empty cream for the serif l
 | SH2-family-evening | Weekday evening: Ling on the sofa, Wei Jie and the two kids at a board game, Kopi asleep on letters. Note: Wei Jie's face is visible (SH-2) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/SH2-family-evening.jpg |
 | SH6-papers-overhead | Overhead: blank papers, envelope, pen, glasses, Kopi's paw on the corner. Note: two pairs of glasses (SH-6) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/SH6-papers-overhead.jpg |
 | SH7-desk-night | Ling from the side typing at night, Kopi sitting by the laptop, screen blank (SH-7) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/SH7-desk-night.jpg |
+
+## Reels in progress
+
+### "Papa at the taxi stand" (Then series), shots only, waiting on the timed VO lines in requests.md
+Seedance 2.5 on the Higgsfield site, start frames from moss-test, 720x1280, 4 s, no sound, 0 credits.
+
+| shot | what's in it | start frame | url |
+|---|---|---|---|
+| s1 | Papa straightens by his cream cab at sunset, pats the roof twice, reaches for the door; leaves drift; roof sign blank | 10-taxi-father-v2.png | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/reels/papa-taxi-stand/rl01-s1-papa-taxi.mp4 |
+| s2 | Sunday table now: Mum shifts a bowl near the empty place, Ling seated, Kopi turns to watch (small motion) | 13-sunday-empty-chair.png | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/reels/papa-taxi-stand/rl01-s2-empty-place.mp4 |
+
+Not used: moss-test/02-taxi-keys.png reads "TAXI" on the key and the charm.
