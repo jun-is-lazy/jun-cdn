@@ -42,12 +42,21 @@ Higgsfield site with Unlimited on, 0 credits.
 ## Stills, style A (RedDotFIRE look), 22 Nov 2026
 
 Seedream 5.0 Pro on the Higgsfield site, Unlimited on, 0 credits. Refs: the R00 sheet plus moss-test/12-desk-night.png
-for the look. Every 4:5 still keeps its top third as empty cream for the serif line. No writing anywhere (checked).
+for the look. Every 4:5 still keeps its top third as empty cream for the serif line. Checked for writing and AI tells.
 
 | id | what's in it | size | url |
 |---|---|---|---|
+| FC2-empty-kitchen | No people: half-drunk kopi, his cap and car keys on a small table, empty chair, morning light (FC-2) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/FC2-empty-kitchen.jpg |
+| FC3-mum-window-cap | Mum from behind at the louvred window holding his cap, Ling's hand on her shoulder (FC-3) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/FC3-mum-window-cap.jpg |
+| FC4-letter-young-kopi | 2021: Ling from behind reading a blank letter at night, young Kopi asleep on the letters (FC-4) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/FC4-letter-young-kopi.jpg |
+| FC5-void-deck-family | Wide void deck: Mum seated head bowed, Ling and her younger brother and sister standing, one envelope, faces unseen (FC-5) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/FC5-void-deck-family.jpg |
+| FC7-pen-on-envelope | Close: Ling's hand with a pen about to write on a blank envelope (FC-7) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/FC7-pen-on-envelope.jpg |
 | R00-ling-kopi-sheet | Character sheet: Ling (front, side, back, 3/4 back) and Kopi the calico (sit, side, asleep, walking). 2720x1536 | 2720x1536 | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/R00-ling-kopi-sheet.jpg |
-| S01-taxi-father | Ah Hock, the taxi uncle, leaning on his plain cream car under a Bukit Merah block at golden hour, side/back view (for SH-3 / FC-1) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/S01-taxi-father.jpg |
+| S01-taxi-father | Ah Hock, the taxi uncle, leaning on his plain cream car under a Bukit Merah block at golden hour, low angle (SH-3 / FC-1) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/S01-taxi-father.jpg |
 | S02-cpf-counter | Ling from behind in a government counter hall, cream folder, taxi charm on her bag (SH-5 / FC-6) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/S02-cpf-counter.jpg |
 | S03-hospital | Ling from behind beside Mum's hospital bed, afternoon blinds light (SH-4) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/S03-hospital.jpg |
 | S04-sunday-dinner | Sunday dinner at Mum's: steamed fish and soup, Ling and Mum from behind, one empty chair, Kopi on a chair (SH-8) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/S04-sunday-dinner.jpg |
+| SH1-kitchen-night | Ling from behind at her kitchen table at night, open folder, taxi-charm keys, Kopi asleep on letters (SH-1 cover) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/SH1-kitchen-night.jpg |
+| SH2-family-evening | Weekday evening: Ling on the sofa, Wei Jie and the two kids at a board game, Kopi asleep on letters. Note: Wei Jie's face is visible (SH-2) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/SH2-family-evening.jpg |
+| SH6-papers-overhead | Overhead: blank papers, envelope, pen, glasses, Kopi's paw on the corner. Note: two pairs of glasses (SH-6) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/SH6-papers-overhead.jpg |
+| SH7-desk-night | Ling from the side typing at night, Kopi sitting by the laptop, screen blank (SH-7) | 1080x1350 (4:5) | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/stills/SH7-desk-night.jpg |
