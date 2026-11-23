@@ -73,15 +73,19 @@ for the look. Every 4:5 still keeps its top third as empty cream for the serif l
 
 ## Reels ready
 
-None right now.
+| id | what | length | url |
+|---|---|---|---|
+| RB-03 | Released 24 Nov 01:57 on JJ's "Ok yes" (Cortana 4088). Shot 3 re-made after his 23 Nov note: Mum on the near side facing the table, back to camera, hands in front; Papa's empty chair across. Blender-first, fresh-eyes audit PASS every frame, safezone PASS, -16.6 LUFS, longest still 0.30 s, Ling's VO word for word, no music (the Instagram song goes on at posting). 1080x1920 | 16.5 s | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/reels/papa-taxi-stand/rb03-papa-taxi-stand.mp4 |
 
 ## HELD, do not post (23 Nov 23:50, JJ)
+
+Still held: RB-03-A and RB-03-B (not planned as trials yet), every rb03v2-* clip on its own, rl01-s1 and rl01-s2.
 
 JJ on the Sunday-table shot: Mum faces the window but a hand comes back onto the table bent the wrong way. RB-03, RB-03-A and RB-03-B, and every rb03v2-* clip, stay off every posting queue until shot 3 is re-made, every frame is audited and JJ has seen the fixed frame next to the bad one.
 
 Fresh-eyes audit of every frame (24 Nov 00:30): FAIL rb03v2-v3b and rb03v2-v4 (Mum's arm reaches back onto the table), rl01-s2-empty-place (same staging), rl01-s1-papa-taxi (a rear wheel appears behind the front door, car turns impossibly short, last second). PASS rb03v2-v1, rb03v2-v2, rl01-s3-keys-kopi. rl01-s1 and rl01-s2 below are HELD too: do not use them.
 
-FIXED 24 Nov ~02:30, still HELD until JJ has seen the side by side (sent on Cortana): shot 3 re-made Blender-first (bl/rb03_shot3c: Mum on the near side facing the table, back to camera; Papa's empty chair across, facing the lens), keyframe rb03v2-s3d (chopsticks as pairs, hands resting), clips rb03v2-v8 + rb03v2-v9 joined under an aligned 0.4 s crossfade, floor sparkle painted out. Fresh-eyes audit PASS on every frame (v8, v9, join). All three cuts re-made with it: safezone PASS, -16.6 / -17.0 / -15.8 LUFS, longest still 0.30-0.33 s, transcript word for word. Before/after: https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/reels/papa-taxi-stand/rb03-shot3-before-after.jpg
+FIXED 24 Nov ~01:50; main cut RELEASED 01:57 on JJ's Ok yes (Cortana 4088): shot 3 re-made Blender-first (bl/rb03_shot3c: Mum on the near side facing the table, back to camera; Papa's empty chair across, facing the lens), keyframe rb03v2-s3d (chopsticks as pairs, hands resting), clips rb03v2-v8 + rb03v2-v9 joined under an aligned 0.4 s crossfade, floor sparkle painted out. Fresh-eyes audit PASS on every frame (v8, v9, join). All three cuts re-made with it: safezone PASS, -16.6 / -17.0 / -15.8 LUFS, longest still 0.30-0.33 s, transcript word for word. Before/after: https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/reels/papa-taxi-stand/rb03-shot3-before-after.jpg
 
 | id | what | length | url |
 |---|---|---|---|
