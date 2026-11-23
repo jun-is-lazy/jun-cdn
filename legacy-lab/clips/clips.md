@@ -79,6 +79,8 @@ None right now.
 
 JJ on the Sunday-table shot: Mum faces the window but a hand comes back onto the table bent the wrong way. RB-03, RB-03-A and RB-03-B, and every rb03v2-* clip, stay off every posting queue until shot 3 is re-made, every frame is audited and JJ has seen the fixed frame next to the bad one.
 
+Fresh-eyes audit of every frame (24 Nov 00:30): FAIL rb03v2-v3b and rb03v2-v4 (Mum's arm reaches back onto the table), rl01-s2-empty-place (same staging), rl01-s1-papa-taxi (a rear wheel appears behind the front door, car turns impossibly short, last second). PASS rb03v2-v1, rb03v2-v2, rl01-s3-keys-kopi. rl01-s1 and rl01-s2 below are HELD too: do not use them.
+
 | id | what | length | url |
 |---|---|---|---|
 | RB-03 | v2, Blender-first + no frozen characters (23 Nov; longest still stretch 0.27 s): each shot blocked out in Blender (set, positions, camera, lens; files in Dropbox ig-fix/faceless-plan/legacy-lab/blender/rb03), painted over on Seedream with the MOSS stills for look, then animated on Seedance. "Papa at the taxi stand" (Then series): Papa pats his cab at sunset, Kopi sniffs his old keys, Sunday table with the empty place, hold on "Comment LEGACY for my folder list." Ling's VO word for word from the brief, captions timed to her words, safezone PASS, -16.6 LUFS, no music (the Instagram song goes on at posting), metadata stripped. 1080x1920 | 16.5 s | https://raw.githubusercontent.com/jun-is-lazy/jun-cdn/main/legacy-lab/reels/papa-taxi-stand/rb03-papa-taxi-stand.mp4 |
